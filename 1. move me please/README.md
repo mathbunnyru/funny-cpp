@@ -2,9 +2,6 @@ Consider following code:
 
 ```c++
 #include <iostream>
-#include <vector>
-
-// using Big = std::vector<int>;
 
 struct Big {
   Big() { std::cout << "ctor\n"; }
