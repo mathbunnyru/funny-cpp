@@ -1,6 +1,6 @@
 # Move me please
 
-Consider following code:
+Consider the following piece of code:
 
 ```c++
 #include <iostream>
