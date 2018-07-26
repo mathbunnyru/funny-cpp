@@ -36,3 +36,5 @@ int main() {
   return 0;
 }
 ```
+
+Btw, [`std::array::swap`](https://en.cppreference.com/w/cpp/container/array/swap) and [`std::swap(std::array)`](https://en.cppreference.com/w/cpp/container/array/swap2) are also not constexpr.
