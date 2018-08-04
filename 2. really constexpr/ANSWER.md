@@ -37,4 +37,6 @@ int main() {
 }
 ```
 
+If you think, that it's awkward to ask `fill` to be constexpr, [`std::fill`](https://en.cppreference.com/w/cpp/algorithm/fill) is constexpr since C++20.
+
 Btw, [`std::array::swap`](https://en.cppreference.com/w/cpp/container/array/swap) and [`std::swap(std::array)`](https://en.cppreference.com/w/cpp/container/array/swap2) are also not constexpr.

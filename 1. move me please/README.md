@@ -23,3 +23,4 @@ int main() {
 ```
 
 Does this code works exactly as it looks like?
+What will you see on the screen after running this code?
