@@ -21,7 +21,7 @@ But, that doesn't make these fact less important, right?
 This is perfectly valid C++ code:
 
   ```c++
-  int widths[] = { [0 ... 9] = 1, [10 ... 99] = 2, [100] = 3 };
+  static constexpr int widths[] = { [0 ... 9] = 1, [10 ... 99] = 2, [100] = 3 };
   ```
 
 ## Assumptions

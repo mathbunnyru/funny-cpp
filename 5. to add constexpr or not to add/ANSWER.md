@@ -1,6 +1,6 @@
 # To add constexpr or not to add - answer
 
-Let's consider following piece of code:
+Let's consider the following piece of code:
 
 ```c++
 #include <iostream>
@@ -15,7 +15,7 @@ int main() {
 }
 ```
 
-In this code it's obvious for people, that x is always 4 (and therefore it can be optimized).
+In this code it's obvious, that x equals to 4 (and therefore it can be optimized away).
 Now, try it in clang or GCC [here](https://gcc.godbolt.org).
 
 And after that change `f` to be constexpr.
