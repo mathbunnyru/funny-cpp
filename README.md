@@ -24,6 +24,8 @@ This is perfectly valid C++ code:
   static constexpr int widths[] = { [0 ... 9] = 1, [10 ... 99] = 2, [100] = 3 };
   ```
 
+### 7. Ordered tuple
+
 ## Assumptions
 
 1. I hope, all the code is compilable (more or less).
