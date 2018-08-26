@@ -26,6 +26,8 @@ This is perfectly valid C++ code:
 
 ### 7. Ordered tuple
 
+### 8. Crazy int8_t
+
 ## Assumptions
 
 1. I hope, all the code is compilable (more or less).
