@@ -9,6 +9,6 @@ Some restrictions apply:
 
 1. Context is not some method of `A`.
 
-2. Please, do not use `#define private public`, or `reinterpret_cast`, it should be uncluttered `C++` solution.
+2. Do not use `#define private public`, or `reinterpret_cast`, it should be uncluttered `C++` solution.
 
-3. There are no restrictions on class `A` - so you can assume something, it shouldn't be arbitrary class.
+3. There are no restrictions on class `A` - so you can assume anything you want, it shouldn't be arbitrary class.

@@ -1,4 +1,4 @@
-# Move me please
+# Move me
 
 Consider the following piece of code:
 

@@ -6,7 +6,7 @@ But, that doesn't make these fact less important, right?
 
 ## Contents
 
-### 1. Move me please
+### 1. Move me
 
 ### 2. Really constexpr
 

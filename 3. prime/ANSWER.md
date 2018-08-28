@@ -54,4 +54,4 @@ Some notes:
 
 3. Microsoft's STL always gives a power of `2`.
 
-4. I didn't look at the sources of STLs, please, feel free to make some PRs if I'm wrong.
+4. I (almost) didn't look at the sources of STLs, please, feel free to make some PRs if I'm wrong.

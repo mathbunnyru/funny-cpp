@@ -1,4 +1,4 @@
-# Move me please - answer
+# Move me - answer
 
 This code compiles and works, but it's not what you see.
 
