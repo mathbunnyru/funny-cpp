@@ -6,6 +6,14 @@ But, that doesn't make these fact less important, right?
 
 ## Contents
 
+### 0. Simple array definition
+
+This is perfectly valid C++ code:
+
+  ```c++
+  static constexpr int widths[] = { [0 ... 9] = 1, [10 ... 99] = 2, [100] = 3 };
+  ```
+
 ### 1. Move me
 
 ### 2. Really constexpr
@@ -16,17 +24,9 @@ But, that doesn't make these fact less important, right?
 
 ### 5. To add constexpr or not to add
 
-### 6. Simple array definition
+### 6. Ordered tuple
 
-This is perfectly valid C++ code:
-
-  ```c++
-  static constexpr int widths[] = { [0 ... 9] = 1, [10 ... 99] = 2, [100] = 3 };
-  ```
-
-### 7. Ordered tuple
-
-### 8. Crazy int8_t
+### 7. Crazy int8_t
 
 ## Assumptions
 
