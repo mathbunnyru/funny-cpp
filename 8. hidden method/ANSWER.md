@@ -29,6 +29,6 @@ To fix this, add `using Base::f;` to the public part of `Derived` class.
 
 Some links on the same topic:
 
-1. http://www.open-std.org/jtc1/sc22/open/n2356/derived.html#class.member.lookup
+1. [C++ standard](http://www.open-std.org/jtc1/sc22/open/n2356/derived.html#class.member.lookup)
 
-2. http://www.gotw.ca/gotw/005.htm
+2. [Overriding Virtual Functions GotW](http://www.gotw.ca/gotw/005.htm)
