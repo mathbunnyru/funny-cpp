@@ -28,6 +28,8 @@ This is perfectly valid C++ code:
 
 ### 7. Crazy int8_t
 
+### 8. Hidden method
+
 ## Assumptions
 
 1. I hope, all the code is compilable (more or less).
