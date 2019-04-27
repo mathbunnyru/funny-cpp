@@ -32,6 +32,8 @@ This is perfectly valid C++ code:
 
 ### 8. Hidden method
 
+### 9. Dangling reference
+
 ## Assumptions
 
 1. I hope, all the code is compilable (more or less).
