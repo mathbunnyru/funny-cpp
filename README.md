@@ -4,11 +4,11 @@ WIP for a blog.
 
 Some facts of the C++ world, sometimes useful, sometimes not (mostly, impractical).
 
-But, that doesn't make these fact less important, right?
+But, that doesn't make these fact less funny, right?
 
 ## Contents
 
-### 0. Simple array definition
+### 00. Simple array definition
 
 This is perfectly valid C++ code:
 
@@ -16,28 +16,36 @@ This is perfectly valid C++ code:
   static constexpr int widths[] = { [0 ... 9] = 1, [10 ... 99] = 2, [100] = 3 };
   ```
 
-### 1. Move me
+### 01. Move me
 
-### 2. Really constexpr
+### 02. Really constexpr
 
-### 3. Prime
+### 03. Prime
 
-### 4. Give me some privacy, please
+### 04. Give me some privacy, please
 
-### 5. To add constexpr or not to add
+### 05. To add constexpr or not to add
 
-### 6. Ordered tuple
+### 06. Ordered tuple
 
-### 7. Crazy int8_t
+### 07. Crazy int8_t
 
-### 8. Hidden method
+### 08. Hidden method
 
-### 9. Dangling reference
+### 09. Dangling reference
+
+### 10. Non-template STL
 
 ## Assumptions
 
 1. I hope, all the code is compilable (more or less).
 
-2. Code is written in C++17.
+2. Code should almost always work in C++17.
 
 3. If you don't love C++, you won't like these pieces of code.
+
+4. No promises here.
+
+5. Help is much appreciated.
+
+6. I'm not a native speaker.
