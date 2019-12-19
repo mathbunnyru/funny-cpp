@@ -1,4 +1,4 @@
-# hidden method - answer
+# Hidden method - answer
 
 ```c++
 #include <string>

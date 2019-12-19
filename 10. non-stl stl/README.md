@@ -1,4 +1,4 @@
-# non-stl stl
+# Non-template STL
 
 Do you know some entities in STL, which are not actual templates?
-C functions are not taken into account here (like, memcpy).
+C functions like `memcpy` are not taken into account here.

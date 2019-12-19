@@ -1,4 +1,4 @@
-# dangling reference
+# Dangling reference
 
 ```c++
 

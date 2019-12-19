@@ -1,4 +1,4 @@
-# crazy int8_t - answer
+# Crazy int8_t - answer
 
 Run this code:
 
